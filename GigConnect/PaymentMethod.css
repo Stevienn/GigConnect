@@ -1,0 +1,173 @@
+.box9,
+.group-child87 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 1280px;
+  height: 794px;
+}
+.box9 {
+  top: 87px;
+  left: 76px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-500);
+  width: 1123px;
+  height: 619px;
+}
+.job-description9 {
+  position: absolute;
+  top: 159px;
+  left: 150px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 971px;
+  height: 476px;
+}
+.group-child90 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-orange-200);
+  width: 207px;
+  height: 50px;
+  cursor: pointer;
+}
+.next {
+  position: absolute;
+  top: 13px;
+  left: 77px;
+  display: grid;
+  align-items: center;
+  width: 54px;
+  height: 23px;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 557px;
+  left: 843px;
+  width: 207px;
+  height: 50px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.group-child91 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-orange-100);
+  width: 425px;
+  height: 58px;
+}
+.payment-method1 {
+  position: absolute;
+  top: 11px;
+  left: 47px;
+  display: flex;
+  align-items: center;
+  width: 341px;
+}
+.footer9,
+.rectangle-parent72 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 425px;
+  height: 58px;
+}
+.footer9 {
+  top: 192px;
+  left: 150px;
+  font-size: var(--font-size-13xl);
+}
+.paymentmethod1-inner {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 18px;
+  height: 18px;
+}
+.credit-debit {
+  position: absolute;
+  top: 0;
+  left: 41px;
+  font-weight: 500;
+}
+.paymentmethod12 {
+  position: absolute;
+  top: 284px;
+  left: 188px;
+  width: 234px;
+  height: 29px;
+  text-align: center;
+}
+.paymentmethod1-child1 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 18px;
+  height: 18px;
+}
+.image-15-icon,
+.paymentmethod13 {
+  position: absolute;
+  top: 342px;
+  left: 188px;
+  width: 252px;
+  height: 29px;
+}
+.image-15-icon {
+  top: 325px;
+  left: 463px;
+  width: 85px;
+  height: 64px;
+  object-fit: cover;
+}
+.image-11-icon,
+.image-12-icon,
+.image-13-icon {
+  position: absolute;
+  top: 283px;
+  left: 624px;
+  width: 44px;
+  height: 34px;
+  object-fit: cover;
+}
+.image-11-icon,
+.image-12-icon {
+  top: 286px;
+  left: 519px;
+  width: 86px;
+  height: 26px;
+}
+.image-11-icon {
+  top: 283px;
+  left: 473px;
+  width: 33px;
+  height: 32px;
+}
+.rectangle-parent71 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 794px;
+}
+.payment-method {
+  position: relative;
+  width: 100%;
+  height: 794px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro-display);
+}

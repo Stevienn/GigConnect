@@ -1,0 +1,146 @@
+.box8,
+.group-child82 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 1280px;
+  height: 794px;
+}
+.box8 {
+  top: 87px;
+  left: 76px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-500);
+  width: 1123px;
+  height: 619px;
+}
+.job-description8,
+.search-bar-child5 {
+  position: absolute;
+  top: 159px;
+  left: 150px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 971px;
+  height: 476px;
+}
+.search-bar-child5 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-16xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 390px;
+  height: 50px;
+}
+.div36 {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+  font-weight: 500;
+}
+.search-bar7 {
+  position: absolute;
+  top: 343px;
+  left: 238px;
+  width: 390px;
+  height: 50px;
+}
+.paymentmethod1-item {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 18px;
+  height: 18px;
+}
+.bca-virtual-account1 {
+  position: absolute;
+  top: 0;
+  left: 41px;
+  font-weight: 500;
+}
+.paymentmethod11 {
+  position: absolute;
+  top: 282px;
+  left: 197px;
+  width: 252px;
+  height: 29px;
+  font-size: var(--font-size-5xl);
+}
+.group-child85 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 30px;
+  background-color: var(--color-orange-200);
+  width: 207px;
+  height: 50px;
+}
+
+
+.confirm-payment {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  display: inline;
+  align-items: center;
+  width: 201px;
+}
+.frame-parent2 {
+  position: absolute;
+  top: 557px;
+  left: 843px;
+  width: 217px;
+  height: 50px;
+  color: var(--color-white);
+}
+.group-child86 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-orange-100);
+  width: 425px;
+  height: 58px;
+}
+.payment6 {
+  position: absolute;
+  top: 11px;
+  left: 47px;
+  display: flex;
+  align-items: center;
+  width: 341px;
+}
+.footer8,
+.rectangle-parent70 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 425px;
+  height: 58px;
+}
+.footer8 {
+  top: 192px;
+  left: 150px;
+  font-size: var(--font-size-13xl);
+}
+.rectangle-parent69 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 794px;
+}
+.payment5 {
+  position: relative;
+  width: 100%;
+  height: 794px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro-display);
+}

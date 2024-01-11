@@ -1,0 +1,1412 @@
+.find-jobs-child,
+.find-jobs-item {
+  position: absolute;
+  top: 48px;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 1280px;
+  height: 1209px;
+}
+.find-jobs-item {
+  top: 71px;
+  left: 1658px;
+  background-color: var(--color-gainsboro-300);
+  width: 227px;
+  height: 42px;
+}
+.kotak1-child3,
+.kotak1-child4,
+.kotak1-child5,
+.kotak1-child6,
+.kotak1-child7 {
+  position: absolute;
+  top: -205px;
+  left: 313px;
+  background-color: var(--color-white);
+  width: 284px;
+  height: 347px;
+  display: none;
+}
+.kotak1-child4,
+.kotak1-child5,
+.kotak1-child6,
+.kotak1-child7 {
+  left: 651px;
+}
+.kotak1-child5,
+.kotak1-child6,
+.kotak1-child7 {
+  top: 185px;
+  left: -15px;
+}
+.kotak1-child6,
+.kotak1-child7 {
+  left: 323px;
+}
+.kotak1-child7 {
+  left: 661px;
+}
+.kotak1-child8 {
+  position: absolute;
+  top: 271px;
+  left: 186px;
+  width: 69px;
+  height: 69px;
+  display: none;
+}
+.description-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gainsboro-100);
+  width: 236px;
+  height: 73px;
+}
+.description4,
+.jadi-ini-isinya1 {
+  position: absolute;
+  top: 5px;
+  left: 7px;
+  font-weight: 500;
+}
+.jadi-ini-isinya1 {
+  top: 20px;
+  font-size: var(--font-size-7xs);
+  display: flex;
+  align-items: center;
+  width: 222px;
+}
+.description3 {
+  position: absolute;
+  top: -86px;
+  left: 0;
+  width: 236px;
+  height: 73px;
+  display: none;
+}
+.description-child1 {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-goldenrod);
+}
+.description-child1,
+.description5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 236px;
+  height: 43px;
+}
+.focus3 {
+  position: absolute;
+  top: 5px;
+  left: 7px;
+  font-size: var(--font-size-3xs);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.interest1-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-whitesmoke);
+  width: 35px;
+  height: 10px;
+}
+.paint-palette-1-icon3 {
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  width: 6px;
+  height: 6px;
+  object-fit: cover;
+}
+.design1 {
+  position: absolute;
+  top: 1px;
+  left: 13px;
+  font-weight: 500;
+}
+.interest1-child2,
+.interest13 {
+  position: absolute;
+  top: 22px;
+  left: 7px;
+  width: 35px;
+  height: 10px;
+}
+.interest1-child2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-whitesmoke);
+  width: 48px;
+}
+.paint-palette-1-icon4,
+.ux-design-1-icon1 {
+  position: absolute;
+  top: 2px;
+  height: 6px;
+  object-fit: cover;
+}
+.paint-palette-1-icon4 {
+  left: 3px;
+  width: 6px;
+  display: none;
+}
+.ux-design-1-icon1 {
+  left: 4px;
+  width: 4px;
+}
+.interest1-child3,
+.interest14 {
+  position: absolute;
+  top: 22px;
+  left: 48px;
+  width: 48px;
+  height: 10px;
+}
+.interest1-child3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-whitesmoke);
+  width: 68px;
+}
+.web-design-1-icon3 {
+  position: absolute;
+  top: 2px;
+  left: 4px;
+  width: 5px;
+  height: 5px;
+  object-fit: cover;
+}
+.focus2,
+.interest15 {
+  position: absolute;
+  top: 22px;
+  left: 101px;
+  width: 68px;
+  height: 10px;
+}
+.focus2 {
+  top: 0;
+  left: 0;
+  width: 236px;
+  height: 43px;
+  display: none;
+  font-size: var(--font-size-7xs);
+  color: var(--color-dimgray-100);
+}
+.kotak11 {
+  position: absolute;
+  top: 441px;
+  left: 186px;
+  width: 0;
+  height: 0;
+  color: var(--color-gray-400);
+}
+.ancestors-1-14 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.more-than-5000004 {
+  margin: 0;
+}
+.more-than-500000-container4 {
+  position: absolute;
+  top: 15px;
+  left: 69px;
+  font-weight: 500;
+}
+.more-than-1-container4,
+.satisfied-customer4 {
+  position: absolute;
+  top: 19px;
+  left: 355px;
+  font-weight: 500;
+}
+.satisfied-customer4 {
+  top: 30px;
+  left: 629px;
+}
+.bill-1-icon4,
+.satisfaction-1-icon4 {
+  position: absolute;
+  top: 4px;
+  left: 286px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.satisfaction-1-icon4 {
+  top: 0;
+  left: 552px;
+  width: 68px;
+  height: 68px;
+}
+.bawah4 {
+  position: absolute;
+  top: 1113px;
+  left: 242px;
+  width: 795px;
+  height: 68px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.box-item {
+  position: absolute;
+  top: 9.36px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 1130px;
+  height: 1176px;
+}
+.box-inner {
+  position: absolute;
+  top: 16px;
+  left: 771px;
+  width: 19px;
+  height: 11px;
+}
+.bookmark-tag-1-icon2 {
+  position: absolute;
+  top: 104px;
+  left: 0;
+  width: 104px;
+  height: 571px;
+  object-fit: cover;
+}
+.connect-with-expert-container4 {
+  position: absolute;
+  top: 9px;
+  left: 49px;
+  font-weight: 500;
+}
+.connect22 {
+  position: absolute;
+  top: 40px;
+  left: 2px;
+  width: 571px;
+  height: 104px;
+  display: none;
+}
+.search-bar-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-orange-100);
+  width: 390px;
+  height: 50px;
+}
+.what-skill-are4 {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+  font-weight: 500;
+}
+.searchputih-1-icon2 {
+  position: absolute;
+  top: 17px;
+  left: 348px;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.search-bar4 {
+  position: absolute;
+  top: 52px;
+  left: 684px;
+  width: 390px;
+  height: 50px;
+  display: none;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.box-child1 {
+  position: absolute;
+  top: 110.9px;
+  left: 1124.9px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray-100);
+  border: 0.2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 5.2px;
+  height: 57.2px;
+}
+.box6,
+.child,
+.item {
+  position: absolute;
+  left: 0;
+}
+.box6 {
+  top: 0px;
+  width: 1130px;
+  height: 1176px;
+  margin-top: 43px;
+}
+.child,
+.item {
+  width: 100%;
+  right: 0;
+}
+.child {
+  height: 84.22%;
+  top: 0;
+  bottom: 15.78%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-orange-100);
+}
+.item {
+  height: 80.34%;
+  top: 19.66%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.requirements1 {
+  position: absolute;
+  top: 58.5%;
+  left: 9.15%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.male-female {
+  margin-bottom: 0;
+}
+.male-female-maximum-25-years {
+  margin: 0;
+  padding-left: var(--padding-2xs);
+}
+.requirements2,
+.requirements3 {
+  position: absolute;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.requirements2 {
+  width: 79.58%;
+  top: 61.89%;
+  left: 7.75%;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+}
+.requirements3 {
+  width: 56.34%;
+  top: 92.96%;
+  left: 21.83%;
+  text-decoration: underline;
+}
+.child1,
+.inner,
+.ruler-and-pencil-1-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.inner {
+  height: 24.27%;
+  width: 35.21%;
+  top: 8.5%;
+  right: 32.39%;
+  bottom: 67.23%;
+  left: 32.39%;
+  border-radius: 50%;
+}
+.child1,
+.ruler-and-pencil-1-icon {
+  height: 10.44%;
+  width: 15.14%;
+  top: 15.29%;
+  right: 42.61%;
+  bottom: 74.27%;
+  left: 42.25%;
+  display: none;
+}
+.child1 {
+  height: 23.79%;
+  width: 34.51%;
+  top: 8.5%;
+  right: 32.75%;
+  bottom: 67.72%;
+  left: 32.75%;
+}
+.pt-freeport-indonesia {
+  position: absolute;
+  top: 34.95%;
+  left: 23.94%;
+  font-size: var(--font-size-5xl);
+  text-align: center;
+}
+.star-1-icon15,
+.star-2-icon15,
+.star-3-icon15,
+.star-4-icon15,
+.star-5-icon15 {
+  position: absolute;
+  height: 100%;
+  width: 18.52%;
+  top: 0;
+  right: 81.48%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.star-2-icon15,
+.star-3-icon15,
+.star-4-icon15,
+.star-5-icon15 {
+  right: 61.11%;
+  left: 20.37%;
+}
+.star-3-icon15,
+.star-4-icon15,
+.star-5-icon15 {
+  right: 40.74%;
+  left: 40.74%;
+}
+.star-4-icon15,
+.star-5-icon15 {
+  right: 20.37%;
+  left: 61.11%;
+}
+.star-5-icon15 {
+  right: 0;
+  left: 81.48%;
+}
+.star15 {
+  position: absolute;
+  height: 54.23%;
+  width: 30.83%;
+  top: 207.14%;
+  right: 27.82%;
+  bottom: -161.38%;
+  left: 41.35%;
+  display: none;
+}
+.location-hitam-115 {
+  position: absolute;
+  height: 71.43%;
+  width: 7.52%;
+  top: 7.14%;
+  right: 92.48%;
+  bottom: 21.43%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.dki-jakarta-indonesia14,
+.karakurylenkogmailcom15 {
+  position: absolute;
+  top: 0;
+  left: 11.28%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.karakurylenkogmailcom15 {
+  top: 257.14%;
+  left: 3.01%;
+  font-size: var(--font-size-5xs);
+  display: none;
+}
+.email-1-icon15 {
+  position: absolute;
+  height: 50%;
+  width: 5.26%;
+  top: 1578.57%;
+  right: 45.86%;
+  bottom: -1528.57%;
+  left: 48.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.location-n-status15 {
+  position: absolute;
+  height: 3.4%;
+  width: 46.83%;
+  top: 44.17%;
+  right: 26.76%;
+  bottom: 52.43%;
+  left: 26.41%;
+}
+.available-1-icon15 {
+  position: absolute;
+  height: 100%;
+  width: 42.86%;
+  top: 0;
+  right: 57.14%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.available15 {
+  position: absolute;
+  top: 29.17%;
+  left: 42.86%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.availability {
+  position: absolute;
+  height: 5.83%;
+  width: 19.72%;
+  top: 1.46%;
+  right: 76.76%;
+  bottom: 92.72%;
+  left: 3.52%;
+  font-size: var(--font-size-5xs);
+}
+.ux-designer20 {
+  position: absolute;
+  top: 21.74%;
+  left: 5.05%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.rectangle-parent37 {
+  position: absolute;
+  height: 5.58%;
+  width: 34.86%;
+  top: 50.24%;
+  right: 54.58%;
+  bottom: 44.17%;
+  left: 10.56%;
+  text-align: center;
+}
+.graphic-designer15 {
+  position: absolute;
+  top: 21.74%;
+  left: 18.75%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.rectangle-parent38 {
+  position: absolute;
+  height: 5.58%;
+  width: 39.44%;
+  top: 50.24%;
+  right: 10.56%;
+  bottom: 44.17%;
+  left: 50%;
+  text-align: center;
+}
+.wa-child43 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-lightgreen);
+}
+.contact15 {
+  position: absolute;
+  top: 23.53%;
+  left: 36.21%;
+  font-weight: 500;
+}
+.whatsapp-1-icon45 {
+  position: absolute;
+  height: 58.82%;
+  width: 17.24%;
+  top: 23.53%;
+  right: 68.97%;
+  bottom: 17.65%;
+  left: 13.79%;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.wa45 {
+  position: absolute;
+  height: 4.13%;
+  width: 20.42%;
+  top: 64.32%;
+  right: 39.79%;
+  bottom: 31.55%;
+  left: 39.79%;
+  display: none;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+}
+.wa-child44 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkslateblue);
+}
+.cloud-computing-1-130 {
+  position: absolute;
+  height: 68.75%;
+  width: 13.1%;
+  top: 18.75%;
+  right: 78.57%;
+  bottom: 12.5%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.access-portfolio15 {
+  position: absolute;
+  width: 67.86%;
+  top: 18.75%;
+  left: 26.19%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.wa46,
+.whatsapp-1-icon46 {
+  position: absolute;
+  display: none;
+}
+.whatsapp-1-icon46 {
+  height: 87.5%;
+  width: 30.56%;
+  top: 6.25%;
+  right: 63.29%;
+  bottom: 6.25%;
+  left: 6.15%;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.wa46 {
+  height: 3.88%;
+  width: 29.58%;
+  top: 64.32%;
+  right: 64.44%;
+  bottom: 31.8%;
+  left: 5.99%;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+}
+.reviews15 {
+  position: absolute;
+  width: 36.9%;
+  top: 18.75%;
+  left: 26.19%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.wa47 {
+  position: absolute;
+  height: 3.88%;
+  width: 29.58%;
+  top: 64.32%;
+  right: 5.99%;
+  bottom: 31.8%;
+  left: 64.44%;
+  display: none;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+}
+.bookmark-1-icon15 {
+  position: absolute;
+  height: 4.13%;
+  width: 5.99%;
+  top: 2.43%;
+  right: 3.17%;
+  bottom: 93.45%;
+  left: 90.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.salary-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-orange-100);
+}
+.div6,
+.salary,
+.salary-child {
+  position: absolute;
+}
+.div6 {
+  top: 21.74%;
+  left: 17.35%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.salary {
+  height: 5.58%;
+  width: 34.51%;
+  top: 79.13%;
+  right: 32.75%;
+  bottom: 15.29%;
+  left: 32.75%;
+}
+.registration-18 {
+  position: absolute;
+  top: 88.59%;
+  left: 21.83%;
+  font-size: var(--font-size-5xs);
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.div5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.profile-perusahaan-card {
+  position: relative;
+  width: 284px;
+  height: 412px;
+}
+.requirements5 {
+  position: absolute;
+  width: 79.58%;
+  top: 64.32%;
+  left: 7.75%;
+  font-size: var(--font-inherit);
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  font-family: var(--font-inherit);
+  display: flex;
+  align-items: center;
+}
+.ruler-and-pencil-1 {
+  position: absolute;
+  height: 10.44%;
+  width: 15.14%;
+  top: 15.29%;
+  right: 42.61%;
+  bottom: 74.27%;
+  left: 42.25%;
+  background-color: var(--color-gray-700);
+  display: none;
+}
+.pt-freeport-indonesia1 {
+  position: absolute;
+  top: 34.95%;
+  left: 35.56%;
+  font-size: var(--font-size-5xl);
+  text-align: center;
+}
+.ux-designer21 {
+  position: absolute;
+  top: 21.74%;
+  left: 16.16%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.rectangle-parent39 {
+  position: absolute;
+  height: 5.58%;
+  width: 34.86%;
+  top: 50.24%;
+  right: 54.58%;
+  bottom: 44.17%;
+  left: 10.56%;
+}
+.graphic-designer16 {
+  position: absolute;
+  top: 21.74%;
+  left: 8.93%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.rectangle-parent40 {
+  position: absolute;
+  height: 5.58%;
+  width: 39.44%;
+  top: 50.24%;
+  right: 10.56%;
+  bottom: 44.17%;
+  left: 50%;
+}
+.pt-freeport-indonesia2 {
+  position: absolute;
+  top: 34.95%;
+  left: 7.39%;
+  font-size: var(--font-size-5xl);
+  text-align: center;
+}
+.ux-designer22 {
+  position: absolute;
+  top: 21.74%;
+  left: 2.02%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.profile-perusahaan-card2 {
+  position: relative;
+  width: 284px;
+  height: 412px;
+  cursor: pointer;
+}
+.profile-perusahaan-card-parent {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-41xl);
+}
+.pt-freeport-indonesia3 {
+  position: absolute;
+  top: 34.95%;
+  left: 7.75%;
+  font-size: var(--font-size-5xl);
+}
+.email-1-icon18 {
+  position: absolute;
+  height: 50%;
+  width: 5.26%;
+  top: 278.57%;
+  right: 102.26%;
+  bottom: -228.57%;
+  left: -7.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.graphic-designer18,
+.ux-designer23 {
+  position: absolute;
+  top: 21.74%;
+  left: 14.14%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.graphic-designer18 {
+  left: 26.79%;
+}
+.div12,
+.salary3 {
+  position: absolute;
+}
+.div12 {
+  top: 21.74%;
+  left: 10.2%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.salary3 {
+  height: 5.58%;
+  width: 34.51%;
+  top: 79.13%;
+  right: 32.75%;
+  bottom: 15.29%;
+  left: 32.75%;
+  text-align: center;
+}
+.requirements14 {
+  position: absolute;
+  width: 79.58%;
+  top: 61.89%;
+  left: 7.75%;
+  font-size: var(--font-inherit);
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  font-family: var(--font-inherit);
+  display: inline-block;
+}
+.pt-freeport-indonesia4 {
+  position: absolute;
+  top: 35.19%;
+  left: 2.11%;
+  font-size: var(--font-size-4xl);
+  text-align: center;
+}
+.star19 {
+  position: absolute;
+  height: 54.23%;
+  width: 28.47%;
+  top: 207.14%;
+  right: 33.33%;
+  bottom: -161.38%;
+  left: 38.19%;
+  display: none;
+}
+.location-hitam-119 {
+  position: absolute;
+  height: 71.43%;
+  width: 6.94%;
+  top: 7.14%;
+  right: 93.06%;
+  bottom: 21.43%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.dki-jakarta-indonesia18,
+.karakurylenkogmailcom19 {
+  position: absolute;
+  top: 0;
+  left: 10.42%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.karakurylenkogmailcom19 {
+  top: 257.14%;
+  left: 2.78%;
+  font-size: var(--font-size-5xs);
+  display: none;
+}
+.email-1-icon19 {
+  position: absolute;
+  height: 50%;
+  width: 4.86%;
+  top: 278.57%;
+  right: 102.08%;
+  bottom: -228.57%;
+  left: -6.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.location-n-status19 {
+  position: absolute;
+  height: 3.4%;
+  width: 50.7%;
+  top: 44.17%;
+  right: 22.89%;
+  bottom: 52.43%;
+  left: 26.41%;
+}
+.ux-designer24 {
+  position: absolute;
+  top: 26.09%;
+  left: 5.05%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.rectangle-parent45 {
+  position: absolute;
+  height: 5.58%;
+  width: 34.86%;
+  top: 50.24%;
+  right: 54.58%;
+  bottom: 44.17%;
+  left: 10.56%;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+}
+.div14,
+.star20 {
+  position: absolute;
+}
+.div14 {
+  top: 21.74%;
+  left: 14.29%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.star20 {
+  height: 54.23%;
+  width: 33.61%;
+  top: 207.14%;
+  right: 21.31%;
+  bottom: -161.38%;
+  left: 45.08%;
+  display: none;
+}
+.location-hitam-120 {
+  position: absolute;
+  height: 71.43%;
+  width: 8.2%;
+  top: 7.14%;
+  right: 91.8%;
+  bottom: 21.43%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.dki-jakarta-indonesia19,
+.karakurylenkogmailcom20 {
+  position: absolute;
+  top: 0;
+  left: 22.13%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.karakurylenkogmailcom20 {
+  top: 257.14%;
+  left: 3.28%;
+  font-size: var(--font-size-5xs);
+  text-align: left;
+  display: none;
+}
+.email-1-icon20 {
+  position: absolute;
+  height: 50%;
+  width: 5.74%;
+  top: 278.57%;
+  right: 102.46%;
+  bottom: -228.57%;
+  left: -8.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.location-n-status20 {
+  position: absolute;
+  height: 3.4%;
+  width: 42.96%;
+  top: 44.17%;
+  right: 30.63%;
+  bottom: 52.43%;
+  left: 26.41%;
+  text-align: center;
+}
+.profile-perusahaan-card-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-41xl);
+}
+.instance-wrapper {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  width: 992px;
+  height: 432px;
+}
+.profile-perusahaan1-inner {
+  position: relative;
+  width: 992px;
+  height: 432px;
+}
+.pt-freeport-indonesia6 {
+  position: absolute;
+  top: 34.95%;
+  left: 10.21%;
+  font-size: var(--font-size-5xl);
+  text-align: center;
+}
+.graphic-designer21 {
+  position: absolute;
+  top: 21.74%;
+  left: 2.68%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.pt-freeport-indonesia7 {
+  position: absolute;
+  top: 34.95%;
+  left: 16.9%;
+  font-size: var(--font-size-5xl);
+  text-align: center;
+}
+.ux-designer27 {
+  position: absolute;
+  top: 21.74%;
+  left: 13.13%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.pt-freeport-indonesia8 {
+  position: absolute;
+  top: 35.44%;
+  left: 1.76%;
+  font-size: var(--font-size-2xl);
+  text-align: center;
+}
+.graphic-designer23,
+.ux-designer28 {
+  position: absolute;
+  top: 21.74%;
+  left: 6.06%;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.graphic-designer23 {
+  left: 5.36%;
+}
+.profile-perusahaan1 {
+  position: absolute;
+  top: 133px;
+  left: 64px;
+  width: 1042px;
+  height: 584px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-24xl);
+  font-size: var(--font-size-xs);
+  margin-top: -43px;
+}
+.box-group,
+.find-jobs-inner {
+  position: absolute;
+  left: 75px;
+  width: 1130px;
+}
+.box-group {
+  top: 115px;
+  height: 1176px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.find-jobs-inner {
+  top: 120px;
+  background-color: var(--color-dimgray-200);
+  height: 95px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  margin-top: 5px;
+}
+.search-bar-child3 {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-white);
+  width: 390px;
+  height: 50px;
+}
+.what-skill-are5 {
+  position: absolute;
+  top: 46px;
+  left: 24px;
+  font-weight: 500;
+  margin-top:-19px;
+}
+.search-1-icon2 {
+  position: absolute;
+  top: 38px;
+  left: 348px;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.group-child72 {
+  position: absolute;
+  top: 7.72px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  width: 167.63px;
+  height: 117.28px;
+}
+.jessica1,
+.log-out1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.jessica1 {
+  top: 34px;
+  left: 73px;
+  width: 82px;
+  height: 31px;
+  cursor: pointer;
+}
+.log-out1 {
+  top: 90px;
+  left: 18px;
+  width: 131.91px;
+  height: 19.29px;
+}
+.group-child73,
+.group-child74 {
+  position: absolute;
+  top: 0;
+  left: 123.95px;
+  width: 24.73px;
+  height: 11.57px;
+}
+.group-child74 {
+  top: 76.65px;
+  left: 15.49px;
+  border-top: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 133.91px;
+  height: 2px;
+}
+.group-child75,
+.vector-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 167.63px;
+  height: 125px;
+}
+.group-child75 {
+  top: 27px;
+  left: 18px;
+  border-radius: 50%;
+  background-color: var(--color-whitesmoke-100);
+  width: 42px;
+  height: 42px;
+}
+.user-2-11 {
+  position: absolute;
+  top: 33px;
+  left: 25px;
+  border-radius: var(--br-3xs);
+  width: 29px;
+  height: 29px;
+  object-fit: cover;
+}
+.group-parent1,
+.search-bar5 {
+  position: absolute;
+  top: 0;
+  left: 268px;
+  width: 167.63px;
+  height: 125px;
+  color: var(--color-gray-800);
+}
+.search-bar5 {
+  top: 129px;
+  left: 757px;
+  width: 435.63px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgray);
+}
+.group-child76 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+}
+.footer-inner3,
+.group-child76 {
+  width: 1300px;
+  height: 140px;
+}
+.footer-inner3,
+.gig-connect4,
+.link-1-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.link-1-icon4 {
+  height: 65.79%;
+  width: 12.08%;
+  top: 21.05%;
+  right: 62.32%;
+  bottom: 13.16%;
+  left: 25.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.logo4 {
+  position: absolute;
+  top: 64px;
+  left: 54px;
+  width: 207px;
+  height: 38px;
+}
+.find-jobs5,
+.home4 {
+  position: absolute;
+  top: 0;
+}
+.home4 {
+  left: 0;
+  cursor: pointer;
+}
+.find-jobs5 {
+  left: 101px;
+  font-weight: 500;
+  color: var(--color-orange-100);
+}
+.account4,
+.find-freelancers4 {
+  position: absolute;
+  top: 0;
+  left: 231px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.account4 {
+  left: 409px;
+}
+.footer6,
+.headers4 {
+  position: absolute;
+  top: 80px;
+  left: 711px;
+  width: 482px;
+  height: 24px;
+  font-size: var(--font-size-xl);
+}
+.footer6 {
+  top: -17px;
+  left: 0;
+  width: 1300px;
+  height: 140px;
+  font-size: var(--font-size-13xl);
+}
+.find-jobs4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  font-family: var(--font-sf-pro-display);
+}

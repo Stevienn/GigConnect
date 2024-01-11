@@ -1,0 +1,829 @@
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 1323px;
+  height: 140px;
+}
+.ancestors-1-11 {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.more-than-500000-container1 {
+  position: absolute;
+  top: 25px;
+  left: 70px;
+  font-family: var(--font-font);
+}
+.more-than-1-container1,
+.satisfied-customer1 {
+  position: absolute;
+  top: 26px;
+  left: 325px;
+  font-weight: 500;
+}
+.satisfied-customer1 {
+  top: 30px;
+  left: 571px;
+}
+.bill-1-icon1,
+.satisfaction-1-icon1 {
+  position: absolute;
+  top: 8px;
+  left: 256px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.satisfaction-1-icon1 {
+  top: 0;
+  left: 494px;
+  width: 68px;
+  height: 68px;
+}
+.bawah1,
+.footer2 {
+  position: absolute;
+  top: 34px;
+  left: 53px;
+  width: 737px;
+  height: 71px;
+}
+.footer2 {
+  top: 0;
+  left: 0;
+  width: 1323px;
+  height: 140px;
+}
+.contact-us1 {
+  margin-block-start: 0;
+  margin-block-end: 5px;
+}
+.contact-us-email-container1 {
+  position: absolute;
+  top: 42px;
+  left: 1018px;
+  font-family: var(--font-font);
+  text-align: left;
+}
+.footer1 {
+  position: absolute;
+  top: 1626px;
+  left: -5px;
+  width: 1323px;
+  height: 140px;
+  text-align: center;
+  color: var(--color-white);
+}
+.company-icon,
+.home-6-child {
+  position: absolute;
+  top: -17px;
+  left: 1px;
+  width: 1280px;
+  height: 794px;
+}
+.company-icon {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  width: 428px;
+  height: 309px;
+  object-fit: cover;
+}
+.remote-location-allowed {
+  position: absolute;
+  top: 96px;
+  left: 25px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.to-apply-to {
+  margin: 0;
+}
+.to-apply-to-container {
+  position: absolute;
+  top: 151px;
+  left: 31px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.cities-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 116px;
+  height: 28px;
+}
+.jakarta {
+  position: absolute;
+  top: 4px;
+  left: 32px;
+  font-weight: 500;
+}
+.cities-1 {
+  position: absolute;
+  top: 212px;
+  left: 21px;
+  width: 116px;
+  height: 28px;
+}
+.singapore {
+  position: absolute;
+  top: 4px;
+  left: 22px;
+  font-weight: 500;
+}
+.cities-2 {
+  position: absolute;
+  top: 212px;
+  left: 152px;
+  width: 116px;
+  height: 28px;
+  text-align: center;
+}
+.malaysia {
+  position: absolute;
+  top: 4px;
+  left: 27px;
+  font-weight: 500;
+}
+.cities-3,
+.cities-4 {
+  position: absolute;
+  top: 211px;
+  left: 283px;
+  width: 116px;
+  height: 28px;
+  text-align: center;
+}
+.cities-4 {
+  top: 251px;
+  left: 21px;
+}
+.location-pin-1-icon {
+  position: absolute;
+  top: 22px;
+  left: 186px;
+  width: 47px;
+  height: 47px;
+  object-fit: cover;
+}
+.description-card-1 {
+  position: absolute;
+  top: 58px;
+  left: 441px;
+  width: 419px;
+  height: 301px;
+}
+.experience {
+  position: absolute;
+  top: 113px;
+  left: 128px;
+}
+.to-apply-to-container1 {
+  position: absolute;
+  top: 160px;
+  left: 25px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.experience-1-icon {
+  position: absolute;
+  top: 28px;
+  left: 176px;
+  width: 68px;
+  height: 68px;
+  object-fit: cover;
+}
+.description-card-2,
+.skills-required,
+.to-apply-to-container2 {
+  position: absolute;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.description-card-2 {
+  top: 398px;
+  left: 179px;
+  width: 419px;
+  height: 301px;
+}
+.skills-required,
+.to-apply-to-container2 {
+  top: 109px;
+  left: 102px;
+}
+.to-apply-to-container2 {
+  top: 160px;
+  left: 25px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  text-align: left;
+}
+.skills-1-icon {
+  position: absolute;
+  top: 32px;
+  left: 178px;
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+.web-design {
+  position: absolute;
+  top: 4px;
+  left: 15px;
+  font-weight: 500;
+}
+.cities-5,
+.cities-6 {
+  position: absolute;
+  top: 220px;
+  left: 20px;
+  width: 116px;
+  height: 28px;
+}
+.cities-6 {
+  left: 147px;
+}
+.back-end {
+  position: absolute;
+  top: 4px;
+  left: 23px;
+  font-weight: 500;
+}
+.cities-7-child,
+.cities-8 {
+  position: absolute;
+  top: 260px;
+  left: 211px;
+  width: 116px;
+  height: 28px;
+}
+.cities-7-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 178px;
+}
+.database-management {
+  position: absolute;
+  top: 4px;
+  left: 8px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 162px;
+}
+.cities-7 {
+  position: absolute;
+  top: 260px;
+  left: 20px;
+  width: 178px;
+  height: 28px;
+}
+.description-card-3 {
+  position: absolute;
+  top: 398px;
+  left: 682px;
+  width: 419px;
+  height: 301px;
+  text-align: center;
+}
+.home-6 {
+  position: absolute;
+  top: 849px;
+  left: -1px;
+  background-color: var(--color-darkslateblue);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1280px;
+  height: 760px;
+}
+.rectangle6 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-gray-300);
+  box-shadow: 1px 0 0#606161 inset, 0 0.5px 0#606161 inset;
+  width: 25px;
+  height: 25px;
+}
+.union-icon3 {
+  position: absolute;
+  right: 7px;
+  bottom: 7px;
+  width: 11px;
+  height: 11px;
+}
+.group4,
+.rectangle7 {
+  position: absolute;
+  right: 0;
+}
+.group4 {
+  bottom: 795px;
+  width: 25px;
+  height: 25px;
+}
+.rectangle7 {
+  top: calc(50% - 11px);
+  border-radius: var(--br-9xs);
+  background: linear-gradient(180deg, #707071, #6a6a6a);
+  box-shadow: 0 0.5px 0 rgba(255, 255, 255, 0.2) inset;
+  width: 37px;
+  height: 22px;
+}
+.vector-icon3 {
+  position: absolute;
+  top: calc(50% - 8px);
+  right: 13px;
+  width: 11px;
+  height: 15px;
+}
+.share1,
+.union-icon4 {
+  position: absolute;
+  top: calc(50% - 408px);
+  right: 78px;
+  width: 37px;
+  height: 22px;
+}
+.union-icon4 {
+  top: calc(50% - 6px);
+  right: 12.5px;
+  width: 12px;
+  height: 12px;
+}
+.show-tab-overview1 {
+  position: absolute;
+  top: calc(50% - 408px);
+  right: 33px;
+  width: 37px;
+  height: 22px;
+}
+.rectangle9 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background: linear-gradient(180deg, #707071, #6a6a6a);
+  box-shadow: 0 0.5px 0 rgba(255, 255, 255, 0.2) inset;
+}
+.reload-icon1 {
+  position: absolute;
+  top: calc(50% - 7.06px);
+  right: 6.5px;
+  width: 11px;
+  height: 13.06px;
+}
+.union-icon5 {
+  width: 8px;
+  height: 10px;
+}
+.figmacom1,
+.union-icon5 {
+  position: relative;
+}
+.core-safari-catalina-sea-child,
+.union-group {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.union-group {
+  flex-direction: row;
+  gap: var(--gap-6xs);
+}
+.core-safari-catalina-sea-child {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: calc(50% - 165px);
+  width: 331px;
+  flex-direction: column;
+}
+.core-safari-catalina-sea1 {
+  position: absolute;
+  width: 40.63%;
+  top: calc(50% - 408px);
+  right: 29.69%;
+  left: 29.69%;
+  height: 22px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.rectangle10,
+.show-sidebar-icon1 {
+  position: absolute;
+  top: calc(50% - 408px);
+  left: 139px;
+  width: 37px;
+  height: 22px;
+}
+.rectangle10 {
+  top: calc(50% - 11px);
+  left: 0;
+  border-radius: var(--br-9xs);
+  background: linear-gradient(180deg, #707071, #6a6a6a);
+  box-shadow: 0 0.5px 0 rgba(255, 255, 255, 0.2) inset;
+  width: 25px;
+}
+.vector-icon4 {
+  position: absolute;
+  top: calc(50% - 5.91px);
+  left: 9.18px;
+  width: 6.51px;
+  height: 11.81px;
+}
+.next-page1,
+.previous-page1 {
+  position: absolute;
+  top: calc(50% - 408px);
+  left: 104px;
+  width: 25px;
+  height: 22px;
+}
+.previous-page1 {
+  left: 78px;
+}
+.core-traffic-lights-catalin1 {
+  position: absolute;
+  top: calc(50% - 403px);
+  left: 13px;
+  width: 52px;
+  height: 12px;
+}
+.company-profile-child,
+.group-child8 {
+  position: absolute;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+}
+.company-profile-child {
+  top: 38px;
+  width: 1280px;
+  height: 1209px;
+}
+.group-child8 {
+  top: 0;
+}
+.footer-child,
+.group-child8 {
+  width: 1363px;
+  height: 153px;
+}
+.footer-child,
+.gig-connect1,
+.link-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.link-1-icon1 {
+  height: 65.79%;
+  width: 12.08%;
+  top: 21.05%;
+  right: 62.32%;
+  bottom: 13.16%;
+  left: 25.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.logo1 {
+  position: absolute;
+  top: 64px;
+  left: 54px;
+  width: 207px;
+  height: 38px;
+}
+.find-jobs1,
+.home1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+.find-jobs1 {
+  left: 107px;
+  font-weight: 500;
+  color: var(--color-orange-100);
+}
+.account1,
+.find-freelancers1 {
+  position: absolute;
+  top: 1px;
+  font-weight: 500;
+}
+.find-freelancers1 {
+  left: 241px;
+  cursor: pointer;
+}
+.account1 {
+  left: 433px;
+}
+.headers1 {
+  top: 77px;
+  left: 712px;
+  width: 506px;
+  height: 25px;
+  font-size: var(--font-size-xl);
+}
+.box3,
+.footer3,
+.headers1 {
+  position: absolute;
+}
+.footer3 {
+  top: -3px;
+  left: -2px;
+  width: 1300px;
+  height: 140px;
+  color: var(--color-white);
+}
+.box3 {
+  top: 137px;
+  left: 76px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-500);
+  width: 1123px;
+  height: 619px;
+}
+.job-description4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 511px;
+  height: 229px;
+}
+.job-description-child {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  background-color: var(--color-gainsboro-300);
+  width: 511px;
+  height: 58px;
+}
+.job-description5 {
+  position: absolute;
+  top: 26px;
+  left: 33px;
+}
+.job-description3,
+.job-description6 {
+  position: absolute;
+  top: 471px;
+  left: 159px;
+  width: 511px;
+  height: 229px;
+}
+.job-description6 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  height: 249px;
+}
+.contract-1-icon,
+.duration-1-icon,
+.location-1-icon {
+  position: absolute;
+  top: 146px;
+  left: 34px;
+  width: 14px;
+  height: 14px;
+  object-fit: cover;
+}
+.contract-1-icon,
+.location-1-icon {
+  top: 174px;
+  left: 35px;
+  width: 13px;
+  height: 13px;
+}
+.contract-1-icon {
+  top: 118px;
+  left: 36px;
+}
+.job-requirement-child1 {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  background-color: var(--color-orange-100);
+  width: 511px;
+  height: 58px;
+}
+.full-stack-developer {
+  position: absolute;
+  top: 27px;
+  left: 33px;
+  font-size: var(--font-size-13xl);
+}
+.remote {
+  font-weight: 500;
+}
+.contract-6-container,
+.remote-full-container {
+  position: absolute;
+  top: 86px;
+  left: 61px;
+}
+.contract-6-container {
+  top: 115px;
+}
+.experience-mid-container,
+.project-fee,
+.work-from {
+  position: absolute;
+  top: 143px;
+  left: 61px;
+}
+.project-fee,
+.work-from {
+  top: 171px;
+  font-weight: 500;
+}
+.project-fee {
+  top: 201px;
+}
+.bookmark-9-icon {
+  position: absolute;
+  height: 8.84%;
+  width: 4.31%;
+  top: 12.45%;
+  right: 3.13%;
+  bottom: 78.71%;
+  left: 92.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.job-requirement3 {
+  position: absolute;
+  top: 194px;
+  left: 153px;
+  width: 511px;
+  height: 249px;
+  font-size: var(--font-size-base);
+}
+.company {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 389px;
+  height: 506px;
+}
+.button-appplynow {
+  position: absolute;
+  top: 413px;
+  left: 103px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-orange-100);
+  width: 183px;
+  height: 52px;
+}
+.apply-now {
+  position: absolute;
+  top: 429px;
+  left: 160px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+}
+.pt-pln {
+  position: absolute;
+  top: 178px;
+  left: 149px;
+  text-align: left;
+}
+.image-7 {
+  position: absolute;
+  top: 47px;
+  left: 83px;
+  width: 223px;
+  height: 122px;
+}
+.electricity-company {
+  position: absolute;
+  top: 215px;
+  left: 95px;
+}
+.employees,
+.wwwplncom {
+  position: absolute;
+  left: 126px;
+  text-align: left;
+}
+.wwwplncom {
+  top: 256px;
+  text-decoration: underline;
+  color: var(--color-darkslateblue);
+}
+.employees {
+  top: 299px;
+}
+.employees-1-icon {
+  position: absolute;
+  top: 300px;
+  left: 88px;
+  width: 29px;
+  height: 29px;
+  object-fit: cover;
+}
+.requirements {
+  position: absolute;
+  height: 1.98%;
+  width: 58.61%;
+  top: 74.31%;
+  left: 20.82%;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.company-card {
+  position: absolute;
+  top: 194px;
+  left: 738px;
+  width: 389px;
+  height: 506px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.home-1-icon {
+  position: absolute;
+  top: 280px;
+  left: 186px;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.we-are-seeking {
+  position: absolute;
+  top: 562px;
+  left: 196px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 434px;
+}
+.company-profile,
+.pln-child {
+  position: absolute;
+  overflow: hidden;
+}
+.company-profile {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1280px;
+  height: 832px;
+  font-size: var(--font-size-13xl);
+}
+.pln-child {
+  height: 6.19%;
+  width: 8.52%;
+  top: 13.51%;
+  right: 23.2%;
+  bottom: 80.31%;
+  left: 68.28%;
+  border-radius: 50%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.pln {
+  position: relative;
+  background-color: var(--color-gray-600);
+  width: 100%;
+  height: 1762px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro-display);
+}

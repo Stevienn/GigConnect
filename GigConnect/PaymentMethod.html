@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./PaymentMethod.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Open Sans Condensed:wght@300;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Open Sans:wght@600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap"
+    />
+
+    <style>
+      @font-face {
+        font-family: "SF Pro Display";
+        src: url("SFPRODISPLAYREGULAR.OTF");
+        font-weight: 400;
+      }
+      @font-face {
+        font-family: "SF Pro Display";
+        src: url("SFPRODISPLAYLIGHTITALIC.OTF");
+        font-weight: 500;
+      }
+      @font-face {
+        font-family: "SF Pro Display";
+        src: url("SFPRODISPLAYBOLD.OTF");
+        font-weight: 700;
+      }
+      @font-face {
+        font-family: "font";
+        src: url("SFPRODISPLAYSEMIBOLDITALIC.OTF");
+        font-weight: 400;
+      }
+      @font-face {
+        font-family: "SeoulNamsan CBL";
+        src: url("SFPRODISPLAYMEDIUM.OTF");
+        font-weight: 400;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="payment-method">
+      <div class="rectangle-parent71">
+        <div class="group-child87"></div>
+        <div class="group-child87"></div>
+        <div class="group-child87"></div>
+        <div class="box9"></div>
+        <div class="job-description9"></div>
+        <div class="frame-parent3">
+          <div class="group-child90" id="frame"></div>
+          <div class="next">Next</div>
+        </div>
+        <div class="footer9">
+          <div class="rectangle-parent72">
+            <div class="group-child91"></div>
+            <b class="payment-method1">Payment Method</b>
+          </div>
+        </div>
+        <div class="paymentmethod12">
+          <div class="paymentmethod1-inner"></div>
+          <div class="credit-debit">BCA Virtual Account</div>
+        </div>
+        <img class="image-12-icon" alt="" src="./public/image-15@2x.png" />
+      </div>
+    </div>
+
+    <script>
+      var frame = document.getElementById("frame");
+      if (frame) {
+        frame.addEventListener("click", function (e) {
+          window.location.href = "./Payment1.html";
+        });
+      }
+      </script>
+  </body>
+</html>
